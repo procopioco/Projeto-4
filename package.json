@@ -20,7 +20,8 @@
   "homepage": "https://github.com/procopioco/Projeto-4#readme",
   "description": "",
   "devDependencies": {
-    "gulp": "^5.0.1",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^6.0.1",
     "sass": "^1.89.2"
   }
